@@ -1,6 +1,6 @@
 # AutoArrangeDisplays
 
-Sistema bash para guardar y restaurar automáticamente configuraciones de monitores basado en la IP del entorno usando [displayplacer](https://github.com/jakehilborn/displayplacer).
+Sistema de Scripts de bash para guardar y restaurar automáticamente configuraciones de monitores (orden, resolución, posición, etc.) en macOS basado en la IP del entorno usando [displayplacer](https://github.com/jakehilborn/displayplacer).
 
 ## 📋 Requisitos
 
